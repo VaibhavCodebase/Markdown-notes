@@ -1,0 +1,19 @@
+# Computer Science with Artificial Intelligence and Machine Learning(70 percent core cse and 30 percent specialization)
+
+
+## Current Market
+
+   - Highly in demand.Less saturated for now and has a great scope in future.
+   - Freshers get around 5-10 lpa while experienced engineers get 15-25+ lpa.
+   - Top tech companies hire AI and ML engineers for their projects.
+
+## Skills
+
+   - Strong mathematical reasoning,eg- linear algebra,calculus and probability.
+   - Data structure and algorithm and python in programming language.
+   - Data wrangling and deep learning framework(pytorch,tensorflow).
+
+## What to learn first?
+  
+   - Basic mathematical reasoning is very important as it is used in training AI models and used in Machine learning.
+   - Heavy focus of python.
